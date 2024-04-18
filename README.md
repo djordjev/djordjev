@@ -10,7 +10,7 @@ I'm Djordje Vukovic, Full Stack Engineer focused on JavaScript & Go. <br /><br /
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=djordjev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=djordjev&theme=dark&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=djordjev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!--  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=djordjev&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
