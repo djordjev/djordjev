@@ -12,7 +12,4 @@ I'm Djordje Vukovic, Full Stack Engineer focused on JavaScript & Go. Contact me 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=djordjev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=djordjev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
